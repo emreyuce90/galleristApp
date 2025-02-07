@@ -17,10 +17,6 @@ import java.net.Inet4Address;
 import java.util.*;
 
 @ControllerAdvice
-@Getter
-@Setter
-@AllArgsConstructor
-@NoArgsConstructor
 public class GlobalExcepitonHandler {
 
     //uygulamada meydana gelen tüm hataları handle eder
