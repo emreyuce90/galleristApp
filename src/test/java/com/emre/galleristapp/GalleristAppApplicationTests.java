@@ -1,0 +1,13 @@
+package com.emre.galleristapp;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class GalleristAppApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
